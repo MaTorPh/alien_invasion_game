@@ -1,3 +1,4 @@
+'''python
 import sys  # used to exit the game
 import pygame
 from settings import Settings
